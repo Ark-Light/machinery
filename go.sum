@@ -15,11 +15,14 @@ cloud.google.com/go/pubsub v1.0.1/go.mod h1:R0Gpsv3s54REJCy4fxDixWD93lHJMoZTyQ2k
 cloud.google.com/go/storage v1.1.0 h1:KYV0dnmEcOuxTd8YLiuQqfx8PzSwDeuDvYGoa5+DbDI=
 cloud.google.com/go/storage v1.1.0/go.mod h1:a81gKs1KmeOyF/qrbeu4APVXICPLcsl0Ilx2XvD7ZYU=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
+github.com/Ark-Light/machinery v1.6.10-0.20191016001040-b6e82b0219b2 h1:aPpPJp+aB4DyfM87omRJPdqp9SbRRf6wJrvJor9+S18=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/RichardKnop/logging v0.0.0-20190827224416-1a693bdd4fae h1:DcFpTQBYQ9Ct2d6sC7ol0/ynxc2pO1cpGUM+f4t5adg=
 github.com/RichardKnop/logging v0.0.0-20190827224416-1a693bdd4fae/go.mod h1:rJJ84PyA/Wlmw1hO+xTzV2wsSUon6J5ktg0g8BF2PuU=
+github.com/RichardKnop/machinery v1.7.0 h1:8ZsJ4kdGZ4pckHz6uo6kJobd33csj6CA4ZMiz3pP3Bg=
+github.com/RichardKnop/machinery v1.7.0/go.mod h1:Ud9v7j7+DrjQgC7gMqFdcIWJBCJMeXmhgr0saIlPGEw=
 github.com/RichardKnop/redsync v1.2.0 h1:gK35hR3zZkQigHKm8wOGb9MpJ9BsrW6MzxezwjTcHP0=
 github.com/RichardKnop/redsync v1.2.0/go.mod h1:9b8nBGAX3bE2uCfJGSnsDvF23mKyHTZzmvmj5FH3Tp0=
 github.com/aws/aws-sdk-go v1.25.8 h1:n7I+HUUXjun2CsX7JK+1hpRIkZrlKhd3nayeb+Xmavs=

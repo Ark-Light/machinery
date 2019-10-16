@@ -45,4 +45,6 @@ require (
 
 replace git.apache.org/thrift.git => github.com/apache/thrift v0.0.0-20180902110319-2566ecd5d999
 
+replace github.com/RichardKnop/machinery => github.com/Ark-Light/machinery v1.6.10-0.20191016001040-b6e82b0219b2
+
 go 1.13
